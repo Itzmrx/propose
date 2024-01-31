@@ -1,7 +1,6 @@
 body {
   display: flex;
   justify-content: center;
-  overflow: hidden;
   align-items: center;
   font-family: "Nunito";
   height: 100vh;
