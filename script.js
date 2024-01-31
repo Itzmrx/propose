@@ -1,11 +1,12 @@
+function telegram() {
+    window.location.href = "t.me/baka_zen/chat";
+}
 
 function nextPage() {
     window.location.href = "yes.html";
 }
 
-function telegram() {
-    window.location.href = "t.me/baka_zen/chat";
-}
+
 
 // function moveButton() {
 //     var x =
